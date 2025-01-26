@@ -7,8 +7,8 @@ GENOME_LENGTH = 3100000000
 MAX_INSERT_SIZE = 1000
 
 USE_TRAINED_HMMS = False
-ILLUMINA_DEFAULT_MODELS_FILE = 'vntr_data/hg19_selected_VNTRs_Illumina.db'
-PACBIO_DEFAULT_MODELS_FILE = 'vntr_data/hg19_selected_VNTRs_Pacbio.db'
+ILLUMINA_DEFAULT_MODELS_FILE = 'vntr_data/hg38_selected_VNTRs_Illumina.db'
+PACBIO_DEFAULT_MODELS_FILE = 'vntr_data/hg38_selected_VNTRs_Pacbio.db'
 TRAINED_MODELS_DB = ILLUMINA_DEFAULT_MODELS_FILE
 TRAINED_HMMS_DIR = 'vntr_data/'
 

@@ -19,6 +19,7 @@ class CustomHelpFormatter(argparse.HelpFormatter):
 
 
 def main():
+    print("PAUL")
     description = '=======================================================\n' \
                   'adVNTR %s: Genopyting tool for VNTRs\n' \
                   '=======================================================\n' \
